@@ -1,0 +1,55 @@
+# KEIJU – Lockdown
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Lock down this place
+俺ら囚われlike a slave
+so baby you should come over
+あいつらは示すno love
+今すぐcome over 今すぐcome over
+紫に光る ベンツの中
+着信あり 信号赤
+本気になる 目光る鷹
+今一瞬最後になるなら
+かつてにない モノが見たい
+優勝する時君My Side
+光り輝く 俺のイメージ
+必ずこの目で全て見たい
+あげる最初にトロフィー
+確かにある 下り坂
+毎回やる変えは効かない
+俺は俺 だけ You should just know
+産むこのFlow baby
+I've been in my zone
+囚われてるよでMake money mo
+俺にはお前が見えるSlow mo
+Lock down this place
+俺ら囚われlike a slave
+so baby you should come over
+あいつらは示すno love
+今すぐcome over 今すぐcome over
+1人じゃない いつも横にMy Friend
+煙たい車内の中葉巻裂き巻いてる
+霞む視界 窓開け咳き込んでる
+赤信号みたいな目でも
+止まらずに遠のく
+意識の中近づく理想を追う
+どんな状況でも稼いでいく今日も
+常に飛び越えるあいつらの予想
+HaterはHold on
+寝る暇ないほど上がる期待値
+他人の言いなり
+なんかにはならないし
+わがままなBabyにつぎ込む大金
+妬まれちゃうくらい楽しんでる毎日
+環境を言い訳にして
+何も出来ずにいるお前とは違がって
+仲間と一緒に行く
+振り返らずその先を見る
+Lock down this place
+俺ら囚われlike a slave
+so baby you should come over
+あいつらは示すno love
+今すぐcome over 今すぐcome over
+```
