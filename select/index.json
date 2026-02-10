@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Lockdown",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-02-10T12:26:46.614785Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Lockdown",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/01_Love_Lockdown_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lockdown",
+      "artist": "Obituary",
+      "has_synced": true,
+      "path": "select/02_Lockdown_Obituary.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lockdown",
+      "artist": "Grip Inc.",
+      "has_synced": true,
+      "path": "select/03_Lockdown_Grip_Inc..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Lockdown",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/04_Love_Lockdown_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lockdown",
+      "artist": "Fugazi",
+      "has_synced": false,
+      "path": "select/05_Lockdown_Fugazi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lockdown",
+      "artist": "Koffee",
+      "has_synced": true,
+      "path": "select/06_Lockdown_Koffee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lockdown",
+      "artist": "Koffee",
+      "has_synced": true,
+      "path": "select/07_Lockdown_Koffee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Lockdown (Album Version)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/08_Love_Lockdown_(Album_Version)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Monsters - Acoustic - Live From Lockdown",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/09_Monsters_-_Acoustic_-_Live_From_Lockdown_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lockdown Spaces",
+      "artist": "Mariusz Duda",
+      "has_synced": true,
+      "path": "select/10_Lockdown_Spaces_Mariusz_Duda.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lockdown",
+      "artist": "Nuno Bettencourt",
+      "has_synced": true,
+      "path": "select/11_Lockdown_Nuno_Bettencourt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Cuddle Up (feat. Lockdown)",
+      "artist": "Montell Jordan",
+      "has_synced": false,
+      "path": "select/12_Let's_Cuddle_Up_(feat._Lockdown)_Montell_Jordan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lets cuddle up (ft Lockdown)",
+      "artist": "Montell Jordan",
+      "has_synced": false,
+      "path": "select/13_Lets_cuddle_up_(ft_Lockdown)_Montell_Jordan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lockdown ft. MION&G-KID",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Lockdown_ft._MION&G-KID_KEIJU.txt"
+    }
+  ]
+}
